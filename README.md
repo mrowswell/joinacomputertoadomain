@@ -1,14 +1,8 @@
-<h1>JJoin a computer to a domain</h1>
+<h1>Join a computer to a domain</h1>
 
 <h2>Description</h2>
 Step by step demonstration on how to join a computer to a domain on Windows 2019 server.
 <br />
-
-
-<h2>Languages and Utilities Used</h2>
-
-- <b>PowerShell</b> 
-- <b>Diskpart</b>
 
 <h2>Environments Used </h2>
 
@@ -18,23 +12,23 @@ Step by step demonstration on how to join a computer to a domain on Windows 2019
 
 <p align="center">
 Right click start, then system: <br/>
-<img src="[https://imagur.org/i/1wBGlcUW]" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://imagur.org/i/1wBGlcUW" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Select the disk:  <br/>
-<img src="https://i.imgur.com/tcTyMUE.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Rename this PC:  <br/>
+<img src="https://imagur.org/i/SPn7DkAp" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Enter the number of passes: <br/>
-<img src="https://i.imgur.com/nCIbXbg.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+To rename this computer or change its domain or workgroup, click change. Click Change: <br/>
+<img src="https://imagur.org/i/cvIA6rS9" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Confirm your selection:  <br/>
-<img src="https://i.imgur.com/cdFHBiU.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Enter computer name and Domain:  <br/>
+<img src="https://imagur.org/i/a13BP4bE" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Wait for process to complete (may take some time):  <br/>
-<img src="https://i.imgur.com/JL945Ga.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Confirmation:  <br/>
+<img src="https://imagur.org/i/FfpzvA4w" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Sanitization complete:  <br/>
